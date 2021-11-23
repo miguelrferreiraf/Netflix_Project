@@ -46,7 +46,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size:16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('C:/Users/Marilhowska/Desktop/Programação/códigos/projetos/netflix project/img/underwood.jpg');
+    background:linear-gradient(rgba(90, 70, 70, 0.5),rgba(0,0,0,.50)100%), url("../img/underwood.jpg");
 
     height:400px;
     background-size:cover;
